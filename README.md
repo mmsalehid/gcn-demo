@@ -1,1 +1,1 @@
-# gin-demo
+# gcn-demo
