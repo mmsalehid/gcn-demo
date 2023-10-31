@@ -1,4 +1,4 @@
-# gin-demo
+# gcn-demo
 
 make sure you created a virtual environment and then run:
 ```
